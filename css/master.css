@@ -1,0 +1,33 @@
+html, body {
+    height: 100%;
+    font-family: arial, sans-serif;
+    font-size: 13px;
+    color: #333;
+    text-align: left;
+    background-color: #cc3300;
+}
+
+body {
+
+}
+
+.stage {
+
+    width: 1000px;
+    margin: 0px auto 0px auto;
+    border: 1px solid #ccc;
+}
+
+.myContent {
+    display: inline-block;
+    border: 1px solid #ccc;
+}
+
+.pageTitle {
+    font-size: 96px;
+}
+
+h1 {
+  font-family: Courier, sans-serif;
+  font-size: 24px;
+}
