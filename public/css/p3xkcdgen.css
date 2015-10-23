@@ -4,9 +4,8 @@ h1.xkcd {
   height: 40px;
   font-size: 36px;
   padding: 60px 0px 0px 20px;
-  margin-bottom: 20px;
-  background: url('/css/img/p3_xkcd-bkgd.jpg') no-repeat left center;
-  border: 0px;
+  margin: 0px 0px 20px 0px;
+  background: url('/css/img/p3_xkcd-bkgd.jpg') no-repeat;
 }
 
 .example {
@@ -22,16 +21,15 @@ h2 {
 }
 
 .password {
+  display: inline-block;
 	font-size:28px;
-	width: 1000px;
+	width: 980px;
 	color:#666;
 	line-height: 135%;
-	margin: 0px 0px 5px 0px;
+	margin: 0px auto 5px auto;
 	padding: 10px;
 	background-color: #eee;
-	font-weight: normal;
 	text-align: center;
-	vertical-align: middle;
 	border-radius:5px;
 	-webkit-border-radius:5px;
 	-moz-border-radius:5px;

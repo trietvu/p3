@@ -4,7 +4,7 @@ h1.lorem {
   height: 40px;
   font-size: 36px;
   padding: 60px 0px 0px 20px;
-  margin-bottom: 20px;
+  margin: 0px 0px 20px 0px;
   background: url('/css/img/p3_lorem-bkgd.jpg') no-repeat left center;
   border: 0px;
 }

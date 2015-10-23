@@ -12,7 +12,7 @@
                 <div class="pageTitle">Developer<br>Helper</div>
                 <div class="lorem">
                 <h1>Lorem Ipsum Generator</h1>
-                  Need some random text for your new document layout, application, or just to have around house? Try our Lorem Ipsum Generator! It's fun! It's easy! It comes with a set of Ginsu knives!<br>
+                  Need some random text for your new document layout, application, or just to have around house? Try our Lorem Ipsum Generator! It's fun! It's easy! It comes with a&nbsp;set of Ginsu knives!<br>
                   <div class="disclaimer">Disclaimer: Ginsu knives are not actually included and can be harmful to children. Headaches and skin rashes have been associated with over-usage. Other symptoms include dry mouth, irritation... but honestly, doesn't everying get irratating after a while?</div>
                   <a href="/lorem-ipsum" class="welcome">Let's generate some text!</a>
                 </div>
@@ -23,8 +23,8 @@
               </div>
               <div class="xkcd">
                 <h1>xkcd Password Generator</h1>
-                Is it time to make up a profile for your "girlfriend" from Canada or do you need to test your app with some random user data? We've got what you need! Create random user data for your applications.<br><br>
-                <a href="/usergenerator" class="welcome">Generate some users!</a>
+                The xkcd Password Generator generates an xkcd-style password for you. Improve you password strength today and make remembering your password that much harder. <br><br>
+                <a href="/xkcdgenerator" class="welcome">Generate an xkcd password!</a>
             </div>
             </div>
         </div>
