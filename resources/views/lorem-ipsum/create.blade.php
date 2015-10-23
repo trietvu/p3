@@ -38,8 +38,8 @@
                       @endforeach
                   </div>
               @endif
-              <input type='int' name='usernum'>
-              <input type='submit' value='Submit'>
+              <input type='int' name='usernum' size='1'>
+              <input type='submit' value='Generate text!'>
 
               </form>
               <p>{!! $finalgen !!}</p>

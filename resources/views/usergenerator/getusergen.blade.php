@@ -26,7 +26,7 @@
               <form method='POST' action='/usergenerator'>
               <input type='hidden' name='_token' value='{{ csrf_token() }}'>
               <p>
-                <h2>Please input the number of paragraphs you wish to generate.</h2>
+                <h2>Please input the number of users you wish to generate.</h2>
               </p>
               @if(count($errors) > 0)
                   <div class="error">
