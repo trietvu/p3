@@ -16,21 +16,6 @@ Route::get('/', function () {
     return view('welcome');
 });
 
-Route::get('/books', 'BookController@getIndex');
-
-Route::get('/books/show/{title?}', 'BookController@getShow');
-
-Route::get('/books/create', 'BookController@getCreate');
-
-Route::post('/books/create', 'BookController@postCreate');
-
-Route::get('/practice', function() {
-
-  $random = new Random();
-  return $random->getRandomString(8);
-
-});
-
 Route::get('logs', '\Rap2hpoutre\LaravelLogViewer\LogViewerController@index');
 
 Route::get('/lorem-ipsum', 'LoremController@getLorem');
