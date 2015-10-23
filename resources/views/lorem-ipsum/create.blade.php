@@ -22,7 +22,7 @@
               </ul>
           </div>
             <div class="bladePage">
-              <h1 class="blade">Lorem Ipsum Generator</h1>
+              <h1 class="lorem">Lorem Ipsum Generator</h1>
               <form method='POST' action='/lorem-ipsum'>
               <input type='hidden' name='_token' value='{{ csrf_token() }}'>
 
