@@ -15,3 +15,7 @@ h1.lorem {
   font-size: 20px;
   font-style: italic;
 }
+
+h2 {
+  color: #006600;
+}

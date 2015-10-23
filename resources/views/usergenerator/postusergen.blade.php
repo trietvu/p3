@@ -17,6 +17,8 @@
                   <li class="topLinks"><a href="/" class="topLinks">Home</a></li>
                   <li class="topLinks"> | </li>
                   <li class="topLinks"><a href="/lorem-ipsum" class="topLinks">Lorem Ipsum Generator</a></li>
+                  <li class="topLinks"> | </li>
+                  <li class="topLinks"><a href="/xkcdgenerator" class="topLinks">xkcd Password Generator</a></li>
                 </ul>
             </div>
             <div class="bladePage">
@@ -46,6 +48,11 @@
               </div>
               </form>
             </div>
+
+            {{--
+            Calling the Faker function and setting a foreach loop to generate the specified number of users with
+            the type of data selected.
+            --}}
             <?php $faker = Faker\Factory::create(); ?>
             @if (isset($username))
                @foreach ($username as $usr)

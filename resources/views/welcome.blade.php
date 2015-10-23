@@ -21,6 +21,11 @@
                   Is it time to make up a profile for your "girlfriend" from Canada or do you need to test your app with some random user data? We've got what you need! Create random user data for your applications.<br><br>
                   <a href="/usergenerator" class="welcome">Generate some users!</a>
               </div>
+              <div class="xkcd">
+                <h1>xkcd Password Generator</h1>
+                Is it time to make up a profile for your "girlfriend" from Canada or do you need to test your app with some random user data? We've got what you need! Create random user data for your applications.<br><br>
+                <a href="/usergenerator" class="welcome">Generate some users!</a>
+            </div>
             </div>
         </div>
     </body>

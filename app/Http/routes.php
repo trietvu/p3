@@ -23,3 +23,6 @@ Route::post('/lorem-ipsum', 'LoremController@postLorem');
 
 Route::get('/usergenerator', 'UserGenController@getUserGen');
 Route::post('/usergenerator', 'UserGenController@postUserGen');
+
+Route::get('/xkcdgenerator', 'XkcdGenController@getPswdGen');
+Route::post('/xkcdgenerator', 'XkcdGenController@postPswdGen');

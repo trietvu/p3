@@ -17,6 +17,8 @@
                   <li class="topLinks"><a href="/" class="topLinks">Home</a></li>
                   <li class="topLinks"> | </li>
                   <li class="topLinks"><a href="/lorem-ipsum" class="topLinks">Lorem Ipsum Generator</a></li>
+                  <li class="topLinks"> | </li>
+                  <li class="topLinks"><a href="/xkcdgenerator" class="topLinks">xkcd Password Generator</a></li>
                 </ul>
             </div>
             <div class="bladePage">
