@@ -7,7 +7,7 @@ use Illuminate\Http\Request;
 use Faker\Factory as Faker;
 
 // require the Faker autoloader
-require_once '/../vendor/fzaninotto/faker/src/autoload.php';
+require_once '/var/www/html/p3/vendor/fzaninotto/faker/src/autoload.php';
 // alternatively, use another PSR-0 compliant autoloader (like the Symfony2 ClassLoader for instance)
 
 class UserGenController extends Controller {
