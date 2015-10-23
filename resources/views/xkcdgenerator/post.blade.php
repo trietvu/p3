@@ -42,7 +42,7 @@
                   @endif
       						<p></p>
       						<p>
-      					 		<label for='numberWords'>Number of words:</lable> <input type='int' name='numberWords'> (Max. of 9. Default is 4 words)<br><br>
+      					 		<label for='numberWords'>Number of words:</lable> <input type='int' name='numberWords' size='1'> (Max. of 9. Default is 4 words)<br><br>
       						</p>
       						<p>
       							<input type='checkbox' name='addNumber' id='addNumber' value='1'>
