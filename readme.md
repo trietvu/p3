@@ -10,7 +10,7 @@ the specified number of paragraphs of the filler text. The Random User Generator
 to specify options such as the number of users, title, birthdate, address, phone number, and a
 profile to generate random user data.
 
-The link to the screencast demo for this project can be found at:
+The link to the screencast demo for this project can be found at: https://youtu.be/J8VY-adsldA
 
 Bother generators limit the number of items in the way of paragraphs or users to 99. The
 application also checks the numeric fields to see if the inputted values are integers, if they
